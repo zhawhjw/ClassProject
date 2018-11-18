@@ -1,9 +1,9 @@
 <?php
 	$db = new mysqli();
-	$src = 'imc.kean.edu';
-	$user = 'zhangyun';
-	$password= '871513';
-	$schema = '2017F_zhangyun';
+	$src = 'xxxx';
+	$user = 'xxxxx';
+	$password= 'xxxxx';
+	$schema = 'xxxxxx';
     $db -> connect($src,$user,$password,$schema);
      if(mysqli_connect_errno()){
 			echo 'Error: Cannot connect to database!'.mysqli_connect_error();
