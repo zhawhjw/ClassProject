@@ -11,13 +11,13 @@
 </tr>
 <tr>
 	<td>Login ID</td>
-	<td align= "center"><input type = "text" name = "username" size="15" maxlegth="100"/></td>
+	<td align= "center"><input type = "text" name = "username" size="15" maxlegth="100" required="required"/></td>
 
   
 </tr>
 <tr>
 	<td>Password</td>
-	<td align= "center"><input type = "password" name = "password" size="15" maxlegth="100"/></td>
+	<td align= "center"><input type = "password" name = "password" size="15" maxlegth="100" required="required"/></td>
 </tr>
 
 <tr>

@@ -20,7 +20,7 @@
 
 <script language="javascript" type="text/javascript"> 
 // direct
-window.location.href='2employee_login.php';
+window.location.href='index.php';
 // timer
 //setTimeout("javascript:location.href='hello.html'", 5000); 
 </script>
