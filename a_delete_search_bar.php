@@ -228,12 +228,6 @@ setOptionBack();
 			
 	}
 
-
-
-	echo "p1</br>";
-	//#######################################################
-	
-	echo "p2</br>";
 	admin_delete_book($s_item,$keyword);
 	$db->close();
 ?>
