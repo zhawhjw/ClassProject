@@ -7,7 +7,7 @@ if(!isset($_COOKIE["current_customer"][0])){
 }
 
 $cookie = stripslashes($_COOKIE["current_customer"][1]);
-$arr = json_decode($cookie, true);//将cookie中的变量取出来
+$arr = json_decode($cookie, true);//
 		 
 ?>
 
@@ -23,7 +23,7 @@ $arr = json_decode($cookie, true);//将cookie中的变量取出来
    <td width="177">Total</td>
   </tr>
 <?php
-foreach($arr as $a)//遍历这个二维数组
+foreach($arr as $a)//
 {
 ?>
      <tr>
