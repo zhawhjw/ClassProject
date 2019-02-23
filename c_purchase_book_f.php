@@ -33,8 +33,6 @@
 
 		}
 
-		echo $query."</br>";
-
 
 		$result=$db ->query($query);
 
