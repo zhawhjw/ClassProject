@@ -31,5 +31,5 @@
 
 <script language="javascript" type="text/javascript"> 
 // timer
-setTimeout("javascript:location.href='customer_login.php'", 5000); 
+setTimeout("javascript:location.href='customer_login.php'", 3000); 
 </script>
